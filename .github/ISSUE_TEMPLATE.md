@@ -8,6 +8,7 @@ existing issues (both open and closed) prior to opening any new issue and ensure
 
 ### Issue type
 
+
 **I'm submitting a ...**  (check one with "x")
 
 * [ ] bug report
