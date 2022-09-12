@@ -1,4 +1,4 @@
-name: Deploy docs-zh_CN
+name: Deploy docs
 on:
   push:
     branches:
